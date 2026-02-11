@@ -1,0 +1,62 @@
+.elementor-530
+  .elementor-element.elementor-element-986469c:not(.elementor-motion-effects-element-type-background),
+.elementor-530
+  .elementor-element.elementor-element-986469c
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #000000;
+}
+.elementor-530 .elementor-element.elementor-element-986469c {
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  border-color: #1e1e1e;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 10px 0px 0px 0px;
+}
+.elementor-530
+  .elementor-element.elementor-element-986469c
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-widget-text-editor {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+  color: var(--e-global-color-text);
+}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked
+  .elementor-drop-cap {
+  background-color: var(--e-global-color-primary);
+}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed
+  .elementor-drop-cap,
+.elementor-widget-text-editor.elementor-drop-cap-view-default
+  .elementor-drop-cap {
+  color: var(--e-global-color-primary);
+  border-color: var(--e-global-color-primary);
+}
+.elementor-530 .elementor-element.elementor-element-c017e61 {
+  text-align: center;
+  font-family: "Comic Neue", Sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: #ffe602fa;
+}
+.elementor-530 .elementor-element.elementor-element-c017e61 a {
+  color: #8b8b8b;
+}
+body.elementor-page-530:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-530
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #131313;
+}
+@media (max-width: 1366px) {
+  .elementor-530 .elementor-element.elementor-element-986469c {
+    padding: 10px 20px 0px 20px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-530 .elementor-element.elementor-element-c017e61 {
+    font-size: 13px;
+  }
+}
